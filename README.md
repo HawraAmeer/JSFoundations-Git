@@ -1,3 +1,6 @@
+Hello!
+My Name is Hawra Ameer.
+and I am Excited for this Bootcamp <3
 
 # Git Task Steps
 
